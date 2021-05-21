@@ -2,7 +2,7 @@
 
 This is a simple implementation of python script to boot game to netdimm system.
 
-Tested only on Sega Naomi 2 with Python 3
+Currently converting code to python 3
 
 ## Usage
 
